@@ -8,8 +8,7 @@
  
 <div align=center>
 
-![CV Badge](http://img.shields.io/badge/-CV-black?style=flat&logo=github&link=https://spiraline.github.io/)
-![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:snowbaepbird@gmail.com)
-![Velog Badge](https://img.shields.io/badge/velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/spiraline)
+[![CV Badge](http://img.shields.io/badge/-CV-black?style=flat&logo=github&link=https://spiraline.github.io/)](https://spiraline.github.io/)
+[![Velog Badge](https://img.shields.io/badge/velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@spiraline)](https://velog.io/@spiraline)
   
 </div>
