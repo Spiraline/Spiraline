@@ -4,11 +4,22 @@
 
 </div>
 
+<div align=center>
+
 ### Jongwoo Han
+
+</div> 
  
+<div align=center>
+ 
+[Portfolio](https://spiraline.github.io/assets/portfolio.pdf)
+ 
+</div>
+
 <div align=center>
 
 [![CV Badge](http://img.shields.io/badge/-CV-black?style=flat&logo=github&link=https://spiraline.github.io/)](https://spiraline.github.io/)
 [![Velog Badge](https://img.shields.io/badge/velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@spiraline)](https://velog.io/@spiraline)
   
 </div>
+
